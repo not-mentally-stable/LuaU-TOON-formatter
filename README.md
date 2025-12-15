@@ -17,7 +17,7 @@ TOON is a simple text format that represents tables using:
 - Comma-separated key/value pairs
 - Inline array declarations
 
-you can learn more about TOON [here](https://github.com/toon-format/toon)
+you can learn more about TOON [here](https://toonformat.dev/)
 
 ### Example TOON
 
