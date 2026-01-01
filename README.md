@@ -18,6 +18,7 @@ TOON is a simple text format that represents tables using:
 - Inline array declarations
 
 you can learn more about TOON [here](https://toonformat.dev/)
+> all credit goes to TOON original creator's, i didnt create or invent TOON nor there website show some love to them [toon-git](https://github.com/toon-format/toon)
 
 ### Example TOON
 
